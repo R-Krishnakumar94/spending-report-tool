@@ -51,8 +51,6 @@ This project highlights key skills in:
 
 📋 Data processing and transformation using Pandas
 
-📁 Excel file manipulation with OpenPyXL
-
 ⚙️ File system operations and subprocess handling
 
 🧪 Error handling and clean user interaction
