@@ -38,7 +38,25 @@ A sample file named `Master.csv` is included. You can open it in Excel and fill 
 
 1. Clone this repository or download the ZIP
 2. Install required Python libraries (refer to requirements)
-3. Run the script:
+3. Run the script
 
-```bash
-spending_tool.py
+🧠 Skills Demonstrated
+This project highlights key skills in:
+
+🐍 Python scripting for automation
+
+🖼 Tkinter GUI design for desktop apps
+
+📊 Data visualization using Matplotlib
+
+📋 Data processing and transformation using Pandas
+
+📁 Excel file manipulation with OpenPyXL
+
+⚙️ File system operations and subprocess handling
+
+🧪 Error handling and clean user interaction
+
+🛠 Packaging small tools for non-technical users
+
+
